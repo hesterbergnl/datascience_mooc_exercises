@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "Exercises"
+        }
+    ],
+    "settings": {
+        "workbench.editor.closeOnFileDelete": true,
+        "files.autoSave": "onFocusChange",
+        "python.pythonPath": "/home/nikolai/anaconda3/bin/python3"
+    }
+}
